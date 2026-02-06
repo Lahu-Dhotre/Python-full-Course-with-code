@@ -1,8 +1,25 @@
 # Python-full-Course-with-code
 What you’ll learn in this course: 
-✅ Python basics &amp; syntax 
-✅ Data types, loops, and functions
-✅ Object-Oriented Programming (OOP)
-✅ File handling, modules &amp; exceptions
-✅ Real-world mini projects 
-✅ And a lot more to become job-ready!
+Introduction
+ - Python origin
+ - Python working
+  - Installation and setup
+ - Comments and variables
+ - Data types in python
+ - Strings and Type conversion
+ - Input and output
+ - Operators in python
+ - If Else in python
+ -Loops Concepts
+ - For loop Questions
+ - While loop Questions and game 
+ - Functions in python
+ - Data Structures
+ - List
+ - Tuple
+ - Set
+ - Dictionary
+ - Exception handling
+ - File handling
+ - File handling project
+ - OOPs
